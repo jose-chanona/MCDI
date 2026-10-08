@@ -58,8 +58,7 @@ Es importante distinguir entre el mejor valor absoluto y la mayor mejora. El mej
 Practica_2B_PCA_GitHub/
 ├── Practica_2B_PCA.ipynb
 ├── README.md
-├── requirements.txt
-└── .gitignore
+└── requirements.txt 
 ```
 
 ## Ejecución en Google Colab
